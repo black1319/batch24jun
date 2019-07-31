@@ -305,8 +305,6 @@
 
 
 
-    <asp:HiddenField ID="hdnUsername" runat="server" />
-     <asp:HiddenField ID="hdnpassword" runat="server" />
     <uc1:LeisureLoginLH runat="server" ID="LeisureLoginLH" />
     <script type="text/javascript">
         function RefreshCaptcha() {
