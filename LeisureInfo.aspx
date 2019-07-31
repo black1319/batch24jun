@@ -374,8 +374,8 @@
                 <div class="BttnHldr Btn" style="display:none;">
                     <asp:Button ID="btnSave" runat="server" Text="Save" CssClass="Bttn" ValidationGroup="g1" OnClientClick="topFunction();phoneval();"/><%--OnClientClick="javascript:return ValidateDob();"--%>
                 </div>
-                <asp:HiddenField ID="hdnEmpId" runat="server" Value="0" />
-                <asp:HiddenField ID="HdnImg" runat="server" Value="" />
+              
+               
             </div>
         </div>
     </div>
